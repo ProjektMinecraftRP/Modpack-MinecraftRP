@@ -6,7 +6,7 @@ mods.ItemStages.addItemStage("gerben", <leatherworks:crafting_leather_soaked>);
 
 //Rezepte hinter Stage verstecken
 mods.recipestages.Recipes.setRecipeStage("gerben", <leatherworks:crafting_leather_scraped>);
-mods.recipestages.Recipes.setRecipeStage("gerben", <leatherworks:crafting_leather_washed>);
+mods.recipestages.Recipes.setRecipeStage("gerben", <leatherworks:crafting_leather_soaked>);
 mods.recipestages.Recipes.setRecipeStage("gerben", <leatherworks:tannin_ball>);
 
 
