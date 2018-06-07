@@ -34,3 +34,7 @@ mods.jei.JEI.removeAndHide(<foundry:machine:2>);
 mods.jei.JEI.removeAndHide(<foundry:machine:4>);
 mods.jei.JEI.removeAndHide(<foundry:machine:5>);
 mods.jei.JEI.removeAndHide(<foundry:machine:6>);
+mods.jei.JEI.removeAndHide(<foundry:mold:*>);
+mods.jei.JEI.removeAndHide(<foundry:castingtable:*>);
+mods.jei.JEI.removeAndHide(<foundry:machine:3>);
+mods.jei.JEI.removeAndHide(<foundry:moldstation>);
