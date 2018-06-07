@@ -11,6 +11,7 @@ mods.jei.JEI.removeAndHide(<thermalfoundation:fertilizer:*>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:upgrade:*>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:wrench>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:glass:*>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:glass_alloy:*>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.fishing_rod_gold>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.fishing_rod_copper>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.fishing_rod_tin>);
