@@ -45,3 +45,37 @@ mods.tconstruct.Melting.removeRecipe(<liquid:blood>);
 mods.tconstruct.Melting.removeRecipe(<liquid:purpleslime>);
 mods.tconstruct.Melting.removeRecipe(<liquid:stone>);
 mods.tconstruct.Melting.removeRecipe(<liquid:dirt>);
+mods.tconstruct.Melting.removeRecipe(<liquid:blood>, <minecraft:rotten_flesh>);
+
+
+//Blöcke Gießen entfernen
+mods.tconstruct.Casting.removeBasinRecipe(<minecraft:iron_block>);
+mods.tconstruct.Casting.removeBasinRecipe(<minecraft:gold_block>);
+mods.tconstruct.Casting.removeBasinRecipe(<thermalfoundation:storage:*>);
+mods.tconstruct.Casting.removeBasinRecipe(<thermalfoundation:storage_alloy:*>);
+mods.tconstruct.Casting.removeBasinRecipe(<tconstruct:metal:*>);
+
+
+//Barren Gießen entfernen
+mods.tconstruct.Casting.removeTableRecipe(<minecraft:iron_ingot>);
+mods.tconstruct.Casting.removeTableRecipe(<minecraft:gold_ingot>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:128>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:129>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:130>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:131>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:132>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:133>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:134>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:135>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:160>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:161>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:162>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:163>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:164>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:165>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:166>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:167>);
+mods.tconstruct.Casting.removeTableRecipe(<tconstruct:ingots:*>);
+
+//Smaragd Gießen entfernen
+mods.tconstruct.Casting.removeTableRecipe(<minecraft:emerald>);
