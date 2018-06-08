@@ -30,3 +30,5 @@ mods.jei.JEI.removeAndHide(<bibliocraft:paintingframemiddle:*>);
 mods.jei.JEI.removeAndHide(<bibliocraft:paintingframefancy:*>);
 mods.jei.JEI.removeAndHide(<bibliocraft:paintingframeborderless:*>);
 mods.jei.JEI.removeAndHide(<bibliocraft:markerpole>);
+mods.jei.JEI.removeAndHide(<bibliocraft:biblioclipboard>);
+mods.jei.JEI.removeAndHide(<bibliocraft:clipboard>);

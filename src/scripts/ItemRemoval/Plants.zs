@@ -23,3 +23,4 @@ mods.jei.JEI.removeAndHide(<plants2:crystal_stairs>);
 mods.jei.JEI.removeAndHide(<plants2:dark_crystal_stairs>);
 mods.jei.JEI.removeAndHide(<plants2:crystal_slab>);
 mods.jei.JEI.removeAndHide(<plants2:dark_crystal_slab>);
+mods.jei.JEI.removeAndHide(<plants2:brewing_cauldron>);
