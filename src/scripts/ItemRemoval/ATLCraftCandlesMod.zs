@@ -119,3 +119,4 @@ mods.jei.JEI.removeAndHide(<atlcraft:atlcraft_chainlongbottom1_gold>);
 mods.jei.JEI.removeAndHide(<atlcraft:atlcraft_ropecoilbottom1>);
 mods.jei.JEI.removeAndHide(<atlcraft:atlcraft_crystalstrandlongbottom1>);
 mods.jei.JEI.removeAndHide(<atlcraft:atlcraft_climbablevine1_longbottom>);
+mods.jei.JEI.removeAndHide(<atlcraft:atlcraft_biglight1_bonfire_lapis>);
