@@ -24,7 +24,7 @@ mods.jei.JEI.removeAndHide(<thermalfoundation:tool.fishing_rod_invar>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.fishing_rod_bronze>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.fishing_rod_iron>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.fishing_rod_diamond>);
-mods.jei.JEI.removeAndHide(thermalfoundation:fluid_mana);
+mods.jei.JEI.removeAndHide(<thermalfoundation:fluid_mana>);
 mods.jei.JEI.removeAndHide(<forge:bucketfilled>.withTag({FluidName: "mana", Amount: 1000}));
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:1028>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:328>);
