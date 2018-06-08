@@ -10,6 +10,3 @@ mods.recipestages.Recipes.setRecipeStage("gerben", <leatherworks:crafting_leathe
 mods.recipestages.Recipes.setRecipeStage("gerben", <leatherworks:crafting_leather_soaked>);
 mods.recipestages.Recipes.setRecipeStage("gerben", <leatherworks:tannin_ball>);
 */
-
-//Entferne andere Lederrezepte
-mods.tconstruct.Drying.removeRecipe(<minecraft:leather>);
