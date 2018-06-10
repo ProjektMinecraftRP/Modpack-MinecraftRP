@@ -32,3 +32,13 @@ mods.jei.JEI.removeAndHide(<tconstruct:cast>.withTag({PartType: "tconstruct:larg
 mods.jei.JEI.removeAndHide(<tconstruct:clay_cast>);
 mods.tconstruct.Casting.removeTableRecipe(<tconstruct:cast_custom:*>);
 mods.jei.JEI.removeAndHide(<tconstruct:cast_custom:*>);
+mods.jei.JEI.removeAndHide(<tconstruct:nuggets:3>);
+mods.jei.JEI.removeAndHide(<tconstruct:ingots:3>);
+mods.jei.JEI.removeAndHide(<tconstruct:metal:3>);
+mods.jei.JEI.removeAndHide(<tconstruct:nuggets:4>);
+mods.jei.JEI.removeAndHide(<tconstruct:ingots:4>);
+mods.jei.JEI.removeAndHide(<tconstruct:metal:4>);
+mods.jei.JEI.removeAndHide(<tconstruct:smeltery_controller>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_furnace_controller>);
+mods.jei.JEI.removeAndHide(<tconstruct:tinker_tank_controller>);
+mods.jei.JEI.removeAndHide(<tconstruct:smeltery_io>);
