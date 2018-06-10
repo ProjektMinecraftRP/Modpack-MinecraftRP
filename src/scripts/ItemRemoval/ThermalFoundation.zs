@@ -54,31 +54,9 @@ mods.jei.JEI.removeAndHide(<thermalfoundation:material:2048>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:2053>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:2052>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:1026>);
-mods.jei.JEI.removeAndHide(<thermalfoundation:material:1025>);//cryotheum
-recipes.removeShapeless(<minecraft:ice>, [<thermalfoundation:material:1025>], true);
-recipes.removeShapeless(<minecraft:packed_ice>, [<thermalfoundation:material:1025>], true);
-recipes.removeShapeless(<minecraft:redstone>, [<thermalfoundation:material:1025>], true);
-recipes.removeShapeless(<minecraft:glowstone_dust>, [<thermalfoundation:material:1025>], true);
-recipes.removeShapeless(<minecraft:ender_pearl>, [<thermalfoundation:material:1025>], true);
-mods.jei.JEI.removeAndHide(<thermalfoundation:material:1024>);//pyrotheum
-recipes.removeShapeless(<minecraft:gold_ingot>, [<thermalfoundation:material:1024>], true);
-recipes.removeShapeless(<minecraft:iron_ingot>, [<thermalfoundation:material:1024>], true);
-recipes.removeShapeless(<thermalfoundation:material:128>, [<thermalfoundation:material:1024>], true);
-recipes.removeShapeless(<thermalfoundation:material:129>, [<thermalfoundation:material:1024>], true);
-recipes.removeShapeless(<thermalfoundation:material:130>, [<thermalfoundation:material:1024>], true);
-recipes.removeShapeless(<thermalfoundation:material:131>, [<thermalfoundation:material:1024>], true);
-recipes.removeShapeless(<thermalfoundation:material:132>, [<thermalfoundation:material:1024>], true);
-recipes.removeShapeless(<thermalfoundation:material:133>, [<thermalfoundation:material:1024>], true);
-recipes.removeShapeless(<thermalfoundation:material:134>, [<thermalfoundation:material:1024>], true);
-recipes.removeShapeless(<tconstruct:ingots>, [<thermalfoundation:material:1024>], true);
-recipes.removeShapeless(<tconstruct:ingots:1>, [<thermalfoundation:material:1024>], true);
-mods.jei.JEI.removeAndHide(<thermalfoundation:material:1027>);//petrotheum
-recipes.removeShapeless(<minecraft:dye:4>, [<thermalfoundation:material:1027>], true);
-recipes.removeShapeless(<minecraft:diamond>, [<thermalfoundation:material:1027>], true);
-recipes.removeShapeless(<minecraft:redstone>, [<thermalfoundation:material:1027>], true);
-recipes.removeShapeless(<minecraft:emerald>, [<thermalfoundation:material:1027>], true);
-recipes.removeShapeless(<minecraft:quartz>, [<thermalfoundation:material:1027>], true);
-recipes.removeShapeless(<biomesoplenty:gem:*>, [<thermalfoundation:material:1027>], true);
+mods.jei.JEI.removeAndHide(<thermalfoundation:material:1025>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:material:1024>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:material:1027>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:801>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:865>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:866>);
