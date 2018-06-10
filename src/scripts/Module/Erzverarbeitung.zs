@@ -41,12 +41,25 @@ mods.tconstruct.Melting.removeRecipe(<liquid:obsidian>);
 mods.tconstruct.Melting.removeRecipe(<liquid:clay>);
 mods.tconstruct.Melting.removeRecipe(<liquid:glass>);
 mods.tconstruct.Melting.removeRecipe(<liquid:water>);
-mods.tconstruct.Melting.removeRecipe(<liquid:blood>);
 mods.tconstruct.Melting.removeRecipe(<liquid:purpleslime>);
 mods.tconstruct.Melting.removeRecipe(<liquid:stone>);
 mods.tconstruct.Melting.removeRecipe(<liquid:dirt>);
-mods.tconstruct.Melting.removeRecipe(<liquid:blood>, <minecraft:rotten_flesh>);
 
+
+//Tinker's Construct Legieren entfernen
+mods.tconstruct.Alloy.removeRecipe(<liquid:invar>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:constantan>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:signalum>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:lumium>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:enderium>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:manyullyn>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:pigiron>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:knightslime>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:clay>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:obsidian>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:alubrass>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:electrum>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:bronze>);
 
 //Blöcke Gießen entfernen
 mods.tconstruct.Casting.removeBasinRecipe(<minecraft:iron_block>);
@@ -54,6 +67,7 @@ mods.tconstruct.Casting.removeBasinRecipe(<minecraft:gold_block>);
 mods.tconstruct.Casting.removeBasinRecipe(<thermalfoundation:storage:*>);
 mods.tconstruct.Casting.removeBasinRecipe(<thermalfoundation:storage_alloy:*>);
 mods.tconstruct.Casting.removeBasinRecipe(<tconstruct:metal:*>);
+mods.tconstruct.Casting.removeBasinRecipe(<minecraft:emerald_block>);
 
 
 //Barren Gießen entfernen
