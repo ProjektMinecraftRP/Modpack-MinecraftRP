@@ -231,3 +231,67 @@ mods.jei.JEI.removeAndHide(<thermalfoundation:material:358>);
 mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:358>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:359>);
 mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:359>);
+
+
+//Enderium entfernen
+mods.jei.JEI.removeAndHide(<forge:bucketfilled>.withTag({FluidName: "liquidenderium", Amount: 1000}));
+mods.jei.JEI.removeAndHide(<foundry:fluidcontainer>.withTag({FluidName: "enderium", Amount: 1000}));
+mods.jei.JEI.removeAndHide(<foundry:fluidcontainer>.withTag({FluidName: "liquidenderium", Amount: 1000}));
+mods.jei.JEI.removeAndHide(<foundry:liquidenderium>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:storage_alloy:7>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:material:167>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:material:231>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:material:167>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:material:231>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:material:103>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:material:359>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:storage_alloy:7>);
+
+
+//Electrum entfernen
+mods.jei.JEI.removeAndHide(<forge:bucketfilled>.withTag({FluidName: "liquidelectrum", Amount: 1000}));
+mods.jei.JEI.removeAndHide(<foundry:fluidcontainer>.withTag({FluidName: "electrum", Amount: 1000}));
+mods.jei.JEI.removeAndHide(<foundry:fluidcontainer>.withTag({FluidName: "liquidelectrum", Amount: 1000}));
+mods.jei.JEI.removeAndHide(<foundry:liquidelectrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:storage_alloy:1>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:material:161>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:material:225>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:armor.helmet_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:armor.plate_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:armor.legs_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:armor.boots_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:tool.sword_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:tool.shovel_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:tool.pickaxe_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:tool.axe_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:tool.hoe_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:tool.bow_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:tool.shears_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:tool.sickle_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:tool.hammer_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:tool.shield_electrum>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:horse_armor_electrum>);
+mods.jei.JEI.removeAndHide(<forge:bucketfilled>.withTag({FluidName: "electrum", Amount: 1000}));
+mods.foundry.Melting.removeRecipe(<thermalfoundation:storage_alloy:1>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:material:161>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:material:225>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:material:97>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:material:353>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:tool.sword_electrum>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:tool.shovel_electrum>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:tool.pickaxe_electrum>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:tool.axe_electrum>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:tool.hoe_electrum>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:armor.helmet_electrum>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:armor.plate_electrum>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:armor.legs_electrum>);
+mods.foundry.Melting.removeRecipe(<thermalfoundation:armor.legs_electrum>);
+
+
+//Iridium entfernen
+mods.jei.JEI.removeAndHide(<foundry:fluidcontainer>.withTag({FluidName: "iridium", Amount: 1000}));
+mods.jei.JEI.removeAndHide(<thermalfoundation:storage:7>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:material:135>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:material:199>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:ore:7>);
+mods.orestages.OreStages.addReplacement("entfernt", <thermalfoundation:ore:7>);
