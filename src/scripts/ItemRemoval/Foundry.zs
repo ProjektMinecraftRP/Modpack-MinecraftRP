@@ -38,3 +38,7 @@ mods.jei.JEI.removeAndHide(<foundry:mold:*>);
 mods.jei.JEI.removeAndHide(<foundry:castingtable:*>);
 mods.jei.JEI.removeAndHide(<foundry:machine:3>);
 mods.jei.JEI.removeAndHide(<foundry:moldstation>);
+mods.jei.JEI.removeAndHide(<foundry:component>);
+mods.jei.JEI.removeAndHide(<foundry:component:24>);
+mods.foundry.CastingTable.removeRodRecipe(<liquid:constantan>);
+mods.foundry.CastingTable.removeRodRecipe(<liquid:liquidcupronickel>);
