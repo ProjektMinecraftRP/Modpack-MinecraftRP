@@ -6,6 +6,7 @@ mods.jei.JEI.hide(<thermalfoundation:fluid_pyrotheum>);
 mods.jei.JEI.hide(<thermalfoundation:fluid_cryotheum>);
 mods.jei.JEI.hide(<thermalfoundation:fluid_aerotheum>);
 mods.jei.JEI.hide(<thermalfoundation:fluid_petrotheum>);
+mods.jei.JEI.hide(<thermalfoundation:fluid_crude_oil>);
 mods.jei.JEI.hide(<forge:bucketfilled>.withTag({FluidName: "redstone", Amount: 1000}));
 mods.jei.JEI.hide(<forge:bucketfilled>.withTag({FluidName: "glowstone", Amount: 1000}));
 mods.jei.JEI.hide(<forge:bucketfilled>.withTag({FluidName: "coal", Amount: 1000}));
