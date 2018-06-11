@@ -13,6 +13,7 @@ mods.jei.JEI.removeAndHide(<plants2:generic:5>);
 mods.jei.JEI.removeAndHide(<plants2:generic:6>);
 mods.jei.JEI.removeAndHide(<plants2:generic:7>);
 mods.jei.JEI.removeAndHide(<plants2:generic:8>);
+mods.jei.JEI.removeAndHide(<plants2:generic:9>);
 mods.jei.JEI.removeAndHide(<plants2:crystal:*>);
 mods.jei.JEI.removeAndHide(<plants2:groundcover>);
 mods.jei.JEI.removeAndHide(<plants2:crystal_log:*>);

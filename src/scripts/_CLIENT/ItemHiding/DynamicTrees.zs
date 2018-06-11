@@ -20,3 +20,5 @@ mods.jei.JEI.hide(<dynamictreesbop:mahoganybranch>);
 mods.jei.JEI.hide(<dynamictreesbop:ebonybranch>);
 mods.jei.JEI.hide(<dynamictreesbop:bamboobranch>);
 mods.jei.JEI.hide(<dynamictreesbop:eucalyptusbranch>);
+mods.jei.JEI.hide(<rustic:olivebranch>);
+mods.jei.JEI.hide(<rustic:ironwoodbranch>);
